@@ -32,6 +32,10 @@ The weekly report therefore has a **weak knowledge points** view: problems shari
 
 A second difference: "understood the solution" is not "can do it". So the review page hides the *answer*, not the problem — and the printed sheet is a **worksheet** (statement + a line to write your answer) with the **answer key on the next page**.
 
+| Review (masked, click to reveal) | Weak knowledge points |
+|---|---|
+| ![review](preview/过一遍.png) | ![weak](preview/薄弱知识点.png) |
+
 ## Install
 
 ```bash
